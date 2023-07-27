@@ -1,5 +1,7 @@
 # Grid Environment for Reinforcement Learning
 
+![QQ截图20230727161338](.\QQ截图20230727161338.png)
+
 This Python script defines a Grid Environment suitable for Reinforcement Learning tasks. The environment is designed based on the [OpenAI Gym](https://gym.openai.com/) framework, making it compatible with a variety of existing reinforcement learning algorithms.
 
 ```python
