@@ -2,6 +2,8 @@
 
 ![QQ截图20230727161338](./QQ截图20230727161338.png)
 
+the environment is python3.9 and gym0.26
+
 This Python script defines a Grid Environment suitable for Reinforcement Learning tasks. The environment is designed based on the [OpenAI Gym](https://gym.openai.com/) framework, making it compatible with a variety of existing reinforcement learning algorithms.
 
 ```python
